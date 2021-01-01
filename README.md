@@ -1,16 +1,24 @@
-### Hi there 👋
+*All Projects Are Only For Educational Purposes*
 
-<!--
-**FullGreenDev/FullGreenDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# The programming languages & frameworks I know
+- JavaScript & NodeJS
+- Python
+- Html & CSS
 
-Here are some ideas to get you started:
+*And Soon C++*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Social Media
+Discord: [FullGreen.Sky#0001]
+Discord: [SkyGames](https://discord.gg/aH8kwsz)
+<br>
+YouTube: [FullGreenSky](https://www.youtube.com/channel/UCkp20fZelk5keNnkRoY0Bfg)
+<br>
+<br>
+WebSite: [SkyGames](https://www.skygames.fr)
+<br>
+
+# Stats
+![stats](https://github-readme-stats.vercel.app/api?username=FullGreenDev&show_icons=true&theme=radical) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FullGreenDev&theme=radical)
+
