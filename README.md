@@ -8,7 +8,7 @@
 *And Soon C++*
 
 # Social Media
-Discord: [FullGreen.Sky#0001]
+Discord: [𝐹𝓊𝓁𝓁𝒢𝓇𝑒𝑒𝓃#0001]
 Discord: [SkyGames](https://discord.gg/aH8kwsz)
 <br>
 YouTube: [FullGreenSky](https://www.youtube.com/channel/UCkp20fZelk5keNnkRoY0Bfg)
