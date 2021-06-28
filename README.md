@@ -9,6 +9,6 @@ I'm FullGreen, a 15 years old web developer from France.
 - 💽 MySQL
 
 ## Contact
-- [www.skygames.fr](https://www.skygames.fr)
-- [fullgreen@skygames.fr](https://twitter.com/martonlederer) on Twitter
+- [www.skygames.fr](https://www.skygames.fr) on internet
+- [fullgreen@skygames.fr](mailto:fullgreen@skygames.fr) on mail
 - [FullGreen.Sky#0001](./) on Discord
