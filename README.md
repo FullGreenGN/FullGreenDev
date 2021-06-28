@@ -1,7 +1,7 @@
 ## Hey! 👋
 I'm FullGreen, a 15 years old web developer from France.
 
-- 🧭 Founder at [SkyGames](https:/www.skygames.fr) and [Tess](https://discord.gg/HVyHj8AGaz)
+- 🧭 Founder at [SkyGames](https://www.skygames.fr) and [Tess](https://discord.gg/HVyHj8AGaz)
 
 ## Skills
 - 👨‍💻 HTML, JavaScript, PHP
