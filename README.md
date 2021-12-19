@@ -12,4 +12,4 @@ I'm studying in [Lycée St-Louise de Marillac](https://marillac.fr)
 ## Contact
 - [www.skygames.fr](https://www.skygames.fr) on internet
 - [fullgreen@skygames.fr](mailto:fullgreen@skygames.fr) on mail
-- [FullGreen.Sky#0001](./) on Discord
+- [FullGreen.Sky#8248](./) on Discord
