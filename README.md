@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm FullGreen, a 15 years old, developer from France.
+I'm FullGreen, a 16 years old, developer from France.
 I'm studying in [Lycée St-Louise de Marillac](https://marillac.fr)
 
 - 🧭 Founder at [SkyGames](https://www.skygames.fr) and [Tess](https://discord.gg/HVyHj8AGaz)
