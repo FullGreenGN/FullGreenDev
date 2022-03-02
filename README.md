@@ -2,7 +2,7 @@
 I'm FullGreen, a 16 years old, developer from France.
 I'm studying in [Lycée St-Louise de Marillac](https://marillac.fr)
 
-- 🧭 Founder at [SkyGames](https://www.skygames.fr) and [Tess](https://discord.gg/HVyHj8AGaz)
+- 🧭 Founder at [SkyGames](https://github.com/SkyGamesFR/) and [Tess](https://github.com/TessBots/)
 
 ## Skills
 - 👨‍💻 HTML, JavaScript, PHP, Java
