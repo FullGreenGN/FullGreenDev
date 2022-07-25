@@ -18,6 +18,6 @@ I'm studying in [Lycée St-Louise de Marillac](https://marillac.fr)
 </a>
 
 ## Contact
-- [www.skygames.fr](https://www.skygames.fr) on internet
+- [www.skygames.fr](https://www.skygames.fr) [fullgreen.skygames.fr](https://fullgreen.skygames.fr) on internet
 - [fullgreen@skygames.fr](mailto:fullgreen@skygames.fr) on mail
-- [FullGreen.Sky#8248](./) on Discord
+- [FullGreen.GN#0401](./) on Discord
