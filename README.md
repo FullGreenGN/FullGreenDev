@@ -30,3 +30,30 @@
         <img src="https://komarev.com/ghpvc/?username=FullGreenDev&style=for-the-badge" alt="Profile Views">
     </a>
 </div>
+        
+## 📈 Stats
+
+<details open>
+<summary> 📊 My Github Stats </summary>
+<br>
+
+<ul>
+
+<li>
+<details open>
+<summary>🔥 Streak Stats</summary>
+<br>
+
+<a href="https://www.github.com/alwyn974">
+<picture>
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=alwyn974&ring=0891b2&fire=0891b2&currStreakLabel=0891b2">
+  <img alt="Github Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=alwyn974&stroke=ffffff&background=151515&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</picture>
+</a>
+
+</details>
+</li>
+
+
+<li>
+<details open>
