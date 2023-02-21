@@ -16,8 +16,8 @@
         <img src="https://img.shields.io/static/v1?label=Discord&message=FullGreen.GN%230401&color=5865F2&style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord - ! FullGreen.GN#0401" />        <!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" height="40" width="40" style="filter: invert(35%) sepia(38%) saturate(3969%) hue-rotate(224deg) brightness(98%) contrast(94%);"> -->
     <a>
     &#8287;&#8287; <!-- special whitespace for indent -->
-    <a href="https://twitter.com/alwyn974" title="My Twitter">
-        <img src="https://img.shields.io/static/v1?label=Twitter&message=alwyn974&color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter - alwyn974" />
+    <a href="[https://twitter.com/alwyn974](https://www.instagram.com/fullgreen.gn/)" title="My Instagram">
+        <img src="https://img.shields.io/static/v1?label=Instagram&message=fullgreen.gn&color=1DA1F2&style=for-the-badge&logo=instagam&logoColor=1DA1F2" alt="Twitter - alwyn974" />
         <!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" height="40" width="40" style="filter: invert(53%) sepia(21%) saturate(5257%) hue-rotate(176deg) brightness(99%) contrast(91%);"> -->
     </a>
     &#8287;&#8287;
