@@ -140,7 +140,7 @@
 <summary>📜 Languages </summary>
 
 <a href="https://wakatime.com/@FullGreenGN">
-    <img src="https://wakatime.com/share/@FullGreenGN/13c3f1ad-5a6d-474e-9d4a-fcb15ab74a49.svg" alt="Languages over last 30 days" title="Wakatime - Languages" width="900px" height="500px" />
+    <img src="https://wakatime.com/share/@FullGreenGN/bb0c7de1-509a-4246-b948-926c40539074.svg" alt="Languages over last 30 days" title="Wakatime - Languages" width="900px" height="500px" />
 </a>
 
 </details>
@@ -151,7 +151,7 @@
 <summary>✍️ Coding activity </summary>
 
 <a href="https://wakatime.com/@FullGreenGN">
-    <img src="https://wakatime.com/share/@FullGreenGN/9e35e40b-ace7-4571-88e1-e986c4128ee5.svg" alt="Coding time over last 30 days" title="Wakatime - Coding Time" width="900px" height="500px" />
+    <img src="https://wakatime.com/share/@FullGreenGN/19f8ae8d-9c4b-493b-8fb7-7ca5dbff4956.svg" alt="Coding time over last 30 days" title="Wakatime - Coding Time" width="900px" height="500px" />
 </a>
 
 </details>
@@ -164,7 +164,7 @@
 
 | IDEs | OS |
 | --- | --- |
-| <a href="https://wakatime.com/@FullGreenGN"> <img src="https://wakatime.com/share/@FullGreenGN/3fbbcb42-59ad-4579-88b1-5fd1f31fa2d8.svg" alt="IDEs over last 30 days" title="Wakatime - IDEs" width="900px" height="500px" /> </a> | <a href="https://wakatime.com/@FullGreenGN"> <img src="https://wakatime.com/share/@FullGreenGN/4aae9f89-b11f-4937-8612-bb2d9a528230.svg" alt="Operating System over last 30 days" title="Wakatime - OS" width="900px" height="500px" /> </a> |
+| <a href="https://wakatime.com/@FullGreenGN"> <img src="https://wakatime.com/share/@FullGreenGN/745be9b9-be57-496c-93ae-855f002579c6.svg" alt="IDEs over last 30 days" title="Wakatime - IDEs" width="900px" height="500px" /> </a> | <a href="https://wakatime.com/@FullGreenGN"> <img src="https://wakatime.com/share/@FullGreenGN/474d359e-32f6-4576-82ce-0fb449d2f432.svg" alt="Operating System over last 30 days" title="Wakatime - OS" width="900px" height="500px" /> </a> |
 
 </details>
 </li>
