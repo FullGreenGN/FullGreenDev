@@ -14,7 +14,8 @@
   Name: FullGreen
   OS: Vitunix x86_64
   Languages: ["HTML", "CSS", "JS", "TS", "Bash", "Java"]
-  Intrests: ["CyberSecurity", "Linux", "Bodybuilding x)"]  
+  Intrests: ["CyberSecurity", "Linux", "Hardcore Music"]
+  Language: ["FR_FR", "EN_US"]  
   Uptime: 18 Years
   ```
 </div>
@@ -24,10 +25,9 @@
 <br />
 <p align="center">
   <samp>
-    $ <a href="https://skygames.fr" target="_blank">website</a> .
+    $ <a href="https://polarisdev.fr" target="_blank">website</a> .
     <a href="https://www.instagram.com/fyllgreen.sprtn/" target="_blank">instagram</a> .
     <a href="https://discordapp.com/users/216936486875037699" target="_blank">discord</a> .
-    <a href="https://github.com/SkyGamesFR" target="_blank">project-skygames</a> $
   </samp>
 </p>
 
